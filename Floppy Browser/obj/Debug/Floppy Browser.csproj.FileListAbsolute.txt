@@ -1,0 +1,13 @@
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\bin\Debug\Floppy Browser.exe.config
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\bin\Debug\Floppy Browser.exe
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\bin\Debug\Floppy Browser.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy_Browser.Form1.resources
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy_Browser.Properties.Resources.resources
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.csproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.exe
+c:\users\miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.pdb
+C:\Users\Miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\bin\Debug\Floppy Browser.exe.manifest
+C:\Users\Miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\bin\Debug\Floppy Browser.application
+C:\Users\Miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.exe.manifest
+C:\Users\Miguel\documents\visual studio 2013\Projects\Floppy Browser\Floppy Browser\obj\Debug\Floppy Browser.application
