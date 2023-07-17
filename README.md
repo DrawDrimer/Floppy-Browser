@@ -22,4 +22,6 @@ Notice : in the version 1.11 and up Floppy Browser its now Floppy Explorer
 ## Distribution
 - You can request a installer cd to install Floppy Browser + Floppy Dev kit basic
 - Or Floppy Explorer beta + Floppy Dev kit full version
+- You Can download the last version in the drawdrimer web-site 
 - Warning : the service don't have started and you can't request the installation CD/DVD
+- But you can request a Free Starter Kit sending a e-mail for mikemilesgamer@outlook.com
