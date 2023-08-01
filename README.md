@@ -6,17 +6,17 @@ The floppy net desktop web browser
 - You only need drag and drop the start_net.html file in the browser window
 - And click in the connect button
 
-## Platafroms
+## Plataforms
 - [x] Windows
 - [ ] MacOS
 - [ ] Linux distros
 
-## Vensions and updates
+## Versions and updates
 note : floppy browser does not update automaticali you need unistall the old version and install the last version
 Notice : in the version 1.11 and up Floppy Browser its now Floppy Explorer
 
 ## Windows
-- only works on windows 8.1 and up (you can run it in windws 7 with .NET framework 4.8)
+- only works on windows 8.1 and up (you can run it in windows 7 with .NET framework 4.8)
 
 
 ## Distribution
