@@ -7,10 +7,15 @@ The floppy net desktop web browser
 - And click in the connect button
 
 ## Plataforms
+##### C# version
 - [x] Windows
 - [ ] MacOS
 - [ ] Linux distros
 
+##### Electron version
+- [x] Windows
+- [x] macOS
+- [x] Linux distros
 ## Versions and updates
 note : floppy browser does not update automaticali you need unistall the old version and install the last version
 Notice : in the version 1.11 and up Floppy Browser its now Floppy Explorer
@@ -25,3 +30,9 @@ Notice : in the version 1.11 and up Floppy Browser its now Floppy Explorer
 - You Can download the last version in the drawdrimer web-site 
 - Warning : the service don't have started and you can't request the installation CD/DVD
 - But you can request a Free Starter Kit sending a e-mail for mikemilesgamer@outlook.com
+
+## Migrating from C# to Electron
+Why?
+- multiplataform support
+- simple compile
+- and more flexibility
